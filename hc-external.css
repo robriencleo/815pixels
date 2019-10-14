@@ -20,8 +20,8 @@
 #SupportHome .col-4 {
    width: 66.7%;
 }
-.btn-outline:hover a,
-.btn-outline a:hover {
+.btn.outline:hover a,
+.btn.outline a:hover {
   background-color: transparent;
   color: black;
 }
