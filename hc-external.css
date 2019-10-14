@@ -1,0 +1,26 @@
+#SupportHome .col-row {
+   display: flex;
+}
+
+#SupportHome .col-row > div {
+  background: #efefef;
+  padding: 3px 5px;
+}
+
+#SupportHome .col-row > div:first-child {
+  margin-right: 10px;
+}
+
+#SupportHome .col-row > div:last-child {
+   margin-left: 10px;
+} 
+#SupportHome .col-2 {
+   width: 33.3%;
+}
+#SupportHome .col-4 {
+   width: 66.7%;
+}
+.btn-outline:hover a {
+  backgroudn-color: transparent;
+  color: black;
+}
