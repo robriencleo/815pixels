@@ -25,3 +25,8 @@
   background-color: transparent;
   color: black;
 }
+
+#CloudTraining .article-navigation td {
+    width: 33%;
+    padding: 0 20px;
+}
