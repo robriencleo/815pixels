@@ -28,6 +28,9 @@
 
 #CloudTraining .training-navigation {
    margin-top: 50px;
+   margin-top: 50px;
+   border-spacing: initial;
+   border-collapse: separate;
 }
 
 #CloudTraining .training-navigation td {
