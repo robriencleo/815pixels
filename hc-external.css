@@ -34,7 +34,7 @@
 }
 
 #CloudTraining .training-navigation td {
-    width: calc(33% - 30px);
+    width: 33%;
     padding: 70px 20px 10px 20px;
     margin: 0 15px;
     position: relative;
