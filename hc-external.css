@@ -46,7 +46,7 @@
 #CloudTraining .training-navigation td em {
     display: block;
     clear: both;
-    margin: auto;
+    text-align: center;
 }
 
 #CloudTraining .training-navigation td strong {
