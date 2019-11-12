@@ -103,3 +103,8 @@
     border: 2px solid #FFF;
     border-radius: 78px;
 }
+
+#CloudTraining #MovementOutput,
+#CloudTraining #AncillaryOutput {
+   display: none;
+}
