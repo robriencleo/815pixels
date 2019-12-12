@@ -21,9 +21,11 @@
    width: 66.7%;
 }
 .btn.outline:hover a,
-.btn.outline a:hover {
+.btn.outline a:hover,
+.btn.outline a:focus {
   background-color: transparent;
   color: black;
+  outline: none;
 }
 
 #CloudTraining .training-navigation {
