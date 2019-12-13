@@ -110,3 +110,36 @@
 #CloudTraining #AncillaryOutput {
    display: none;
 }
+
+#CICOutput { margin-top: 25px; }
+#CICOutput > div { display: none; }
+#CICOutput > div#CICAnalyzeOutput { display: block; }
+#CICOutput h4 { font-size: 22px; font-weight: bold; }
+table#CICControl { width: 100%; }
+table#CICControl tr td {
+  background-color: #f5f6f6;
+  padding: 3px 15px;
+  width: 25%;
+}
+table#CICControl tr td img,
+table#CICControl tr td p {
+  padding: 0px;
+  margin: 0px;
+}
+table#CICControl tr td:first-of-type div { line-height: 100px; height: 100px; position: relative; display: block; }
+table#CICControl tr td:first-of-type div img { display: inline; height: 80px; vertical-align: middle; }
+table#CICControl tr td:first-of-type div img:last-of-type { vertical-align: middle; margin-left: 25px; }
+table#CICControl tr td p { text-align: center; }
+table#CICControl tr td p:first-of-type { margin-bottom: 15px; }
+table#CICControl tr td p img { vertical-align: middle; }
+table#CICControl tr td p img.hover { display: none; }
+table#CICControl tr td:hover p img { display: none; }
+table#CICControl tr td:hover p img.hover { display: inline; }
+table#CICControl tr td:first-of-type {
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+table#CICControl tr td:last-of-type {
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
