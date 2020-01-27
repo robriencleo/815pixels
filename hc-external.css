@@ -143,3 +143,10 @@ table#CICControl tr td:last-of-type {
   border-top-right-radius: 7px;
   border-bottom-right-radius: 7px;
 }
+
+.article-vote:hover::before, 
+.article-vote:hover::after, 
+.article-vote[aria-selected="true"]::before, 
+.article-vote[aria-selected="true"]::after {
+  color: #FFF;
+}
