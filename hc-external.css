@@ -150,3 +150,25 @@ table#CICControl tr td:last-of-type {
 .article-vote[aria-selected="true"]::after {
   color: #FFF;
 }
+
+@media screen and (max-width: 767px
+	.homepage-header .unsigned-user {
+		width: auto;
+    padding: 0;
+    min-width: initial;
+    max-width: initial;
+	}
+	.homepage-header .homepage-switcher {
+  	width: auto;
+		margin-left: 0;
+		padding-left: 130px;
+	}
+	.homepage-header .homepage-switcher .arrow {
+		margin-top: 16px;
+	}
+	.homepage-header .homepage-switcher ul {
+		justify-content: unset;
+	}
+	
+	  
+}
