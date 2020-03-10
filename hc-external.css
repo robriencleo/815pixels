@@ -151,7 +151,7 @@ table#CICControl tr td:last-of-type {
   color: #FFF;
 }
 
-@media screen and (max-width: 767px
+@media screen and (max-width: 767px) {
 	.homepage-header .unsigned-user {
 		width: auto;
     padding: 0;
@@ -168,7 +168,5 @@ table#CICControl tr td:last-of-type {
 	}
 	.homepage-header .homepage-switcher ul {
 		justify-content: unset;
-	}
-	
-	  
+	}	  
 }
