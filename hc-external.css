@@ -170,7 +170,7 @@ table#CICControl tr td:last-of-type {
 		justify-content: unset;
 	}	  
 }
-#Docs .training-navigation td {
+.docs-navigation td {
     width: 33%;
     padding: 65px 20px 10px 20px;
     margin: 0 15px;
