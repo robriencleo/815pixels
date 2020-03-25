@@ -175,14 +175,14 @@ table#CICControl tr td:last-of-type {
 
 
 #DocTraining .training-navigation {
-   margin-top: 50px;
+   margin-top: 0px;
    border-spacing: 15px;
    border-collapse: separate;
 }
 
 #DocTraining .training-navigation td {
     width: 33%;
-    padding: 65px 20px 10px 20px;
+    padding: 5px 20px 10px 20px;
     margin: 0 15px;
     position: relative;
     cursor: pointer;
