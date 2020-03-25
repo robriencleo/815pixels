@@ -176,6 +176,7 @@ table#CICControl tr td:last-of-type {
     margin: 0 15px;
     position: relative;
     cursor: pointer;
-    background: #f0f2f2;
+    background: #000;
     border: 4px solid transparent;
 }
+f0f2f2
